@@ -1,2 +1,1 @@
-# simgrass
-simple C++ network frame
+# simgrass: simple C++ network frame
